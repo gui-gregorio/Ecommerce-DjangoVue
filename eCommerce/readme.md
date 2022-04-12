@@ -1,1 +1,0 @@
-Projeto em andamento Django com VUE
